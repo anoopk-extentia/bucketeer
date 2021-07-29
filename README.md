@@ -1,8 +1,10 @@
 # bucketeer
 
 ### Provides a simple CLI to interact with AWS buckets.
-Needs the AWS credentials to be the specified within the config.json file that is included. 
+
 ##### Do this first.
+Bucketeer Needs the AWS credentials to be the specified within the config.json file that is included. 
+
 Run 'npm test' to confirm all is well. This should shows a list of all the buckets.
 
 Run 'npm run help' to see more details.
