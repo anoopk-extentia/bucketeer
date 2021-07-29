@@ -2,8 +2,9 @@
 
 ### Provides a simple CLI to interact with AWS buckets.
 
-##### Do this first.
-Bucketeer Needs the AWS credentials to be the specified within the config.json file that is included. 
+****Bucketeer Needs the AWS credentials to be the specified within the config.json file that is included. Do this first.**** 
+
+
 
 
 
