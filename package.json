@@ -1,0 +1,16 @@
+{
+  "name": "aws-bucketeer",
+  "version": "1.0.0",
+  "description": "Interact with your buckets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js -f listBuckets",
+    "help": "node index.js --help"
+  },
+  "author": "Anoop Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.955.0",
+    "yargs": "^17.0.1"
+  }
+}
