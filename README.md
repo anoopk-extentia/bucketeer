@@ -7,10 +7,12 @@ Run 'npm test' to confirm all is well. This should shows a list of all the bucke
 
 Run 'npm run help' to see more details.
 
-Provides functions to 
+#### Provides functions to 
     
     list all buckets for the account
     
     list all objects within an individual bucket
     
-    get contents for an object  
+    get contents for an object
+    
+    remove an object from a bucket
