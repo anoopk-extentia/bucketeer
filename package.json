@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Interact with your buckets",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anoopk-extentia/bucketeer"
+  },
   "scripts": {
     "test": "node index.js -f listBuckets",
     "help": "node index.js --help"
