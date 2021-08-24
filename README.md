@@ -12,6 +12,10 @@ Run 'npm test' to confirm all is well. This should shows a list of all the bucke
 
 Run 'npm run help' to see more details.
 
+#### Usage
+    node index.js -f listBuckets
+    node index.js -f listObjects -b <bucketname>
+
 #### Provides functions to 
     
     list all buckets for the account
